@@ -66,7 +66,7 @@ For an AD of several thousand objects, it takes about ten minutes.
 
 ## LIST AVAILABLE BACKUPS
 * Open the command prompt as administrator.
-* Enter : wvadmin get versions
+* Enter : wbadmin get versions
 
 ![listsave1.png](./Images/listsave1.png)
 
