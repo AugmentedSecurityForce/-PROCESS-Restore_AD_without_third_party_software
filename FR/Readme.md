@@ -66,7 +66,7 @@ Pour un AD de plusieurs milliers d'objets, il faut compter une dizaine de minute
 
 ## LISTER LES SAUVEGARDES DISPONIBLES
 * Exécuter l'invite de commande en administrateur.
-* Saisir la commande : wvadmin get versions
+* Saisir la commande : wbadmin get versions
 
 ![listsave1.png](./Images/listsave1.png)
 
