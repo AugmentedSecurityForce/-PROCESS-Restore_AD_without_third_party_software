@@ -72,7 +72,7 @@ For an AD of several thousand objects, it takes about ten minutes.
 
 ## LIST THE CONTENTS OF BACKUPS
 * Open the command prompt as administrator.
-* Enter: webadmin get items -version:Versionidentifier
+* Enter: wbadmin get items -version:Versionidentifier
 
 ![listsave2.png](./Images/listsave2.png)
 
