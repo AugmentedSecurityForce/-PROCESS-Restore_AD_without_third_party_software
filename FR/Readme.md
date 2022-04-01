@@ -72,7 +72,7 @@ Pour un AD de plusieurs milliers d'objets, il faut compter une dizaine de minute
 
 ## LISTER LE CONTENU DES SAUVEGARDES
 * Exécuter l'invite de commande en administrateur.
-* webadmin get items -version:Versionidentifier
+* wbadmin get items -version:Versionidentifier
 
 ![listsave2.png](./Images/listsave2.png)
 
